@@ -1,0 +1,21 @@
+.background {
+  background-image: url("https://i.imgur.com/WAvZ4oo.jpeg");
+  background-size: 300px;
+}
+.bigger {
+  font-size: 120px;
+  color: White;
+  font-family: "Arial";
+  font-weight: 800;
+}
+.big {
+  font-size: 35px;
+  color: White;
+  font-family: "Arial";
+  font-weight: 900;
+}
+.ball {
+  position: absolute;
+  border-radius: 100%;
+  opacity: 0.3;
+}
